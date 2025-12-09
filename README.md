@@ -17,10 +17,19 @@
 >
 > I work with a combination of Deep Learning frameworks and MLOps tools.
 >
-> <p align="left"> <img src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/python/python.png" alt="Python" /> <img src="" alt="C++" />
-> 	<img src="https://avatars.githubusercontent.com/u/21003710?s=40&v=4" alt="PyTorch" /> <img src="https://avatars.githubusercontent.com/u/25720743?s=48&v=4" alt="Hugging Face" />
->     <img src="https://avatars.githubusercontent.com/u/5009934?s=40&v=4" alt="OpenCV" /> <img src="https://avatars.githubusercontent.com/u/26833451?s=40&v=4" alt="YOLO" />
->     <img src="https://avatars.githubusercontent.com/u/7739233?s=48&v=4" alt="Docker" /> <img src="https://www.linux.org/icons/128_ubuntu.png" alt="Linux" /> <img src="https://avatars.githubusercontent.com/u/18133?s=48&v=4" alt="Git" /> </p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=101010" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=101010" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&color=101010" />
+  <br/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&color=101010" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&color=101010" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&color=101010" />
+  <br/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&color=101010" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&color=101010" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=101010" />
+</div>
 >
 >
 > 
