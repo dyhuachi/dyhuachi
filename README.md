@@ -17,10 +17,10 @@
 >
 > I work with a combination of Deep Learning frameworks and MLOps tools.
 >
-> <p align="left"> <img src="" alt="Python" /> <img src="" alt="C++" />
-> 	<img src="" alt="PyTorch" /> <img src="" alt="Hugging Face" />
->     <img src="" alt="OpenCV" /> <img src="" alt="YOLO" />
->     <img src="" alt="Docker" /> <img src="" alt="Linux" /> <img src="" alt="Git" /> </p>
+> <p align="left"> <img src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/python/python.png" alt="Python" /> <img src="" alt="C++" />
+> 	<img src="https://avatars.githubusercontent.com/u/21003710?s=40&v=4" alt="PyTorch" /> <img src="https://avatars.githubusercontent.com/u/25720743?s=48&v=4" alt="Hugging Face" />
+>     <img src="https://avatars.githubusercontent.com/u/5009934?s=40&v=4" alt="OpenCV" /> <img src="https://avatars.githubusercontent.com/u/26833451?s=40&v=4" alt="YOLO" />
+>     <img src="https://avatars.githubusercontent.com/u/7739233?s=48&v=4" alt="Docker" /> <img src="https://www.linux.org/icons/128_ubuntu.png" alt="Linux" /> <img src="https://avatars.githubusercontent.com/u/18133?s=48&v=4" alt="Git" /> </p>
 >
 >
 > 
@@ -28,5 +28,3 @@
 > ------
 >
 > ### 
-
-R
