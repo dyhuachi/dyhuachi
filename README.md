@@ -18,7 +18,6 @@
 ---
 
 ### 🎓 Education
-
 > <br/>🏛️ **Taiyuan University of Technology (TYUT)** | *ShanXi, China*
 
 ---
@@ -70,6 +69,8 @@ I am an **AI Algorithm Engineer** passionate about bridging the gap between theo
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dyhuachi&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyhuachi&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dyhuachi&theme=tokyonight" alt="profile details"/>
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dyhuachi&theme=tokyonight" alt="repos per language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dyhuachi&theme=tokyonight" alt="productive time"/>
 </div>
