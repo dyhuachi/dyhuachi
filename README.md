@@ -18,7 +18,7 @@
 ---
 
 ### 🎓 Education
-> <br/>🏛️ **Taiyuan University of Technology (TYUT)** | *ShanXi, China*
+> 🏛️ **Taiyuan University of Technology (TYUT)** | *ShanXi, China*
 
 ---
 
